@@ -1,4 +1,4 @@
-# Repository for projects of challenge path FRONT-END DEVELOPER
+# Repository for projects of challenge path Front-end Developer
 
 ## Description:
 
